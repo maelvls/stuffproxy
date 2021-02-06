@@ -1,2 +1,3 @@
 # stuffproxy
-My nginx proxy that I use for my Synology NAS
+
+My nginx proxy that I use for my Synology NAS.
